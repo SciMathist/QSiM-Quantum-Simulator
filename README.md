@@ -1,3 +1,5 @@
+![QSiM Logo](qsim.jpg)
+
 # QSiM - Quantum Circuit Simulator
 
 QSiM is a powerful Quantum Circuit Simulator designed to simulate quantum algorithms on classical hardware. It provides an intuitive interface for creating, running, and analyzing quantum circuits, making it ideal for learning and experimenting with quantum computing concepts.
