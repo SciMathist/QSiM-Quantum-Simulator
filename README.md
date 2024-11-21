@@ -17,7 +17,8 @@ QSiM is a powerful Quantum Circuit Simulator designed to simulate quantum algori
 ## Usage
 
 To run QSiM, open the Jupyter notebook in a Jupyter-compatible IDE (e.g.: Google Colab).
-**Note:** `QuantumCircuit` class uses matrix multiplication and `QuantumCircuit_T` class is based on tensor contraction under the hood to simulate quantum circuits.
+
+**Note:** `QuantumCircuit` class uses matrix multiplication and `QuantumCircuit_T` class uses tensor contraction under the hood to simulate quantum circuits.
 
 ## Author
 
